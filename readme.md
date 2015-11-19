@@ -1,5 +1,11 @@
+#Facebook Plugin on Android w/ngCordova
+### Using This Project
+* `git clone git@github.com:aaronksaunders/ionic-fb-plugin-demo.git`
+* `ionic state restore`
+* `bower install ngCordova`
 
-## Installing Plugin for Android
+
+### Installing Plugin for Android
 
 Documentation Available Here
 * [https://github.com/Telerik-Verified-Plugins/Facebook/blob/master/platforms/android/README.md](https://github.com/Telerik-Verified-Plugins/Facebook/blob/master/platforms/android/README.md)
